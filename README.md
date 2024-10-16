@@ -7,9 +7,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/> 
+  <img src="https://media.giphy.com/media/3o7aU8m8I8dO10tf9O/giphy.gif" width="80"/> 
   <b>About Me</b> 
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/3o7aU8m8I8dO10tf9O/giphy.gif" width="80"/>
 </p>
 
 - 🌟 **Proficient in:** **C, C++**, with a working knowledge of **Java**  
@@ -23,9 +23,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="50"/> 
+  <img src="https://media.giphy.com/media/3o7aU2zC2EJaErYZ1G/giphy.gif" width="50"/> 
   <b>My Tech Stack</b> 
-  <img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/3o7aU2zC2EJaErYZ1G/giphy.gif" width="50"/>
 </p>
 
 <p align="center">
@@ -64,12 +64,9 @@
 ### 🌌 Hobbies and Interests
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1BdIPQSfmXl6fcokVt/giphy.gif" width="50"/>
-  <b>Exploring Astronomy</b>
-  <img src="https://media.giphy.com/media/1BdIPQSfmXl6fcokVt/giphy.gif" width="50"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/RPukvruMuE34zd7raR/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/TvQEf5icRjNK4/giphy.gif" width="200"/>
+  <b>Exploring Astronomy & Physics</b>
+  <img src="https://media.giphy.com/media/TvQEf5icRjNK4/giphy.gif" width="200"/>
 </p>
 
 ---
@@ -88,7 +85,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/2uNq3nGpW4suaX73Dp/giphy.gif" width="300"/>
 </p>
 
 ---
