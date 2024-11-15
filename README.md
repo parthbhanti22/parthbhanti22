@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Bhanti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&center=true&width=700&lines=Android+Developer+%7C+C%2FC%2B%2B+Proficient+%7C+Java+Explorer;Learning+DSA+%7C+Passionate+about+Machine+Learning;Physics+Lover+%7C+Quantum+Explorer+%7C+Astronomy+Fan" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&center=true&width=700&lines=Android+%7C+C%2FC%2B%2B+Proficient+%7C+Java+Explorer;Learning+DSA+%7C+Passionate+about+Machine+Learning;Physics+Lover+%7C+Quantum+Explorer+%7C+Astronomy+Fan" alt="Typing SVG"/>
 </p>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="left"> 
