@@ -1,89 +1,107 @@
-<h1 align="center">Hi 👋, I'm Parth Bhanti</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/RHEqKwRZDwFKE/giphy.gif" width="100%" height="250" style="object-fit:cover; border-radius: 10px;" alt="Space Banner"/>
+  
+  <br/><br/>
+  
+  <h1 align="center"><code>root@parth:~$ ./hello_world.sh</code> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&center=true&width=700&lines=Android+%7C+C%2FC%2B%2B+Proficient+%7C+Java+Explorer;Learning+DSA+%7C+Passionate+about+Machine+Learning;Physics+Lover+%7C+Quantum+Explorer+%7C+Astronomy+Fan" alt="Typing SVG"/>
-</p>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="left"> 
-
-# 💫 About Me:
-🔭 I’m currently working on Android Development  
-👯 I’m looking to collaborate on Open Source Projects and Contributions  
-🤝 I’m looking for help with Data Structures and App development  
-🌱 I’m currently learning Machine Learning  
-💬 Ask me about my keen interest in physics  
-⚡ Fun fact - "Penrose isn't just a pattern in art"
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-</p>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parthbhanti) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ParthBhanti) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bhanti_parth) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/peterparker22)
-
----
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
----
-
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthbhanti22&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhanti22&theme=blue-green&hide_border=false"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhanti22&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parthbhanti22&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</p>
-
----
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=parthbhanti22&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=parthbhanti22&icon=0&color=0"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=System+Architecture+%26+Cloud+Engineer;Building+Distributed+Systems+in+Go;Kernel+Hacking+%26+Low-Level+Optimizations;Physics+Enthusiast+%7C+Quantum+Explorer;Executing+Idea...+Success!" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3><code>cat about_me.txt</code></h3>
+</div>
+
+<img align="right" alt="Retro PC" width="250" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="border-radius: 10px; margin-left: 20px; filter: grayscale(20%);" />
+
+I am a Computer Science student at **VIT Bhopal University** exploring the raw metal of computing. While others look at the screen, I prefer looking at the **Kernel**.
+
+My passion lies in bridging the gap between abstract **Physics** and concrete **System Logic**. I transitioned from mobile apps to the backend because I wanted to control the infrastructure that powers the world.
+
+Now, I spend my nights architecting **Distributed Systems**, writing **Go** routines that handle concurrency like a quantum state, and dissecting **TCP/IP** packets.
+
+- 🔭 **Current Process:** `Running` Distributed Key-Value Store & Cloud Simulations.
+- ⚙️ **Kernel:** Linux (WSL/Debian) & Low-Level Memory Management.
+- ⚡ **Manifesto:** "Code is just applied physics. Efficiency isn't an option; it's a law."
+
+<br clear="right"/>
+
+---
+
+### <code>ls -la ./tech_stack/</code>
+
+<div align="center">
+
+| **Core & Systems** | **Cloud & Network** | **Web & Interface** | **Hacker Tools** |
+|:---:|:---:|:---:|:---:|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
+
+---
+
+### <code>./execute_projects.sh</code>
+
+| Project | System Description | Tech Stack |
+| :--- | :--- | :--- |
+| **ApexKV** | A distributed, fault-tolerant key-value store. Handles partitions and replication logic manually. | `Go` `gRPC` `Raft Consensus` |
+| **ExoVate** | Interactive simulation platform visualizing NASA Exoplanet data for scientific analysis. | `Next.js` `NASA API` `WebGL` |
+| **DSA Tracker** | A progressive web app to track algorithm mastery and competitive coding streaks. | `React` `Node.js` `PostgreSQL` |
+| **CloudThumb** | Automated serverless pipeline for image processing using event-driven architecture. | `AWS Lambda` `S3` `Python` |
+
+---
+
+### <code>top -b -n 1 | grep "STATS"</code>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthbhanti22&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhanti22&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-streak-stats.demolab.com/?user=parthbhanti22&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/parthbhanti22/parthbhanti22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3><code>/var/log/achievements.log</code></h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=parthbhanti22&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+### <code>ssh connect_user@parth</code>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ParthBhanti">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://x.com/@bhanti_parth">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:parthbhanti22@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=parthbhanti22&icon=5&color=2" />
+</p>
