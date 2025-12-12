@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/RHEqKwRZDwFKE/giphy.gif" width="100%" height="250" style="object-fit:cover; border-radius: 10px;" alt="Space Banner"/>
+  <img src="https://i.giphy.com/media/RHEqKwRZDwFKE/giphy.gif" width="100%" height="250" style="object-fit:cover; border-radius: 10px;" alt="Space Banner"/>
   
   <br/><br/>
   
@@ -16,7 +16,7 @@
   <h3><code>cat about_me.txt</code></h3>
 </div>
 
-<img align="right" alt="Retro PC" width="250" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="border-radius: 10px; margin-left: 20px; filter: grayscale(20%);" />
+<img align="right" alt="Coding Cat" width="250" src="https://i.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="border-radius: 10px; margin-left: 20px; filter: grayscale(20%);" />
 
 I am a Computer Science student at **VIT Bhopal University** exploring the raw metal of computing. While others look at the screen, I prefer looking at the **Kernel**.
 
@@ -68,7 +68,7 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 <br/>
 
 <div align="center">
-  <img src="https://readme-streak-stats.demolab.com/?user=parthbhanti22&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhanti22&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
 </div>
 
 <br/>
