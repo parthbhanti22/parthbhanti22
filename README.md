@@ -32,18 +32,48 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 ---
 
-### <code>ls -la ./tech_stack/</code>
+## 📊 System Statistics
 
 <div align="center">
-
-| **Core & Systems** | **Cloud & Network** | **Web & Interface** | **Hacker Tools** |
-|:---:|:---:|:---:|:---:|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthbhanti22&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthbhanti22&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthbhanti22&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthbhanti22&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthbhanti22&theme=radical&utcOffset=5.5">
+  
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=parthbhanti22&theme=radical&hide_border=false&include_all_commits=false&count_private=true">
+  
+  <img height="169em" src="https://github-readme-streak-stats.demolab.com/?user=parthbhanti22&theme=radical&hide_border=false">
 </div>
+
+<br>
+
+## 🏆 Achievements Unlocked
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=parthbhanti22&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+---
+
+### <code>ls -la ./tech_stack/</code>
+
+<h3 align="center">⚡ Core & Systems</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,bash,linux" />
+</div>
+
+<h3 align="center">☁️ Cloud & Network</h3> 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github" />
+</div>
+
+<h3 align="center">🌐 Web & Interface</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vercel,postgres" />
+</div>
+
+<br/>
 
 ---
 
@@ -58,20 +88,7 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 ---
 
-### <code>top -b -n 1 | grep "STATS"</code>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthbhanti22&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthbhanti22&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthbhanti22&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</div>
-
-<br/>
+### <code>./contribution_snake.py</code>
 
 <div align="center">
   <img src="https://github.com/parthbhanti22/parthbhanti22/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
@@ -79,9 +96,10 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 <br/>
 
+## 🧠 Algorithmic Complexity (LeetCode)
+
 <div align="center">
-  <h3><code>/var/log/achievements.log</code></h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=parthbhanti22&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://leetcard.jacoblin.cool/parthbhanti?theme=radical&font=Rubik&ext=heatmap" alt="LeetCode Heatmap">
 </div>
 
 ---
@@ -89,19 +107,20 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 ### <code>ssh connect_user@parth</code>
 
 <div align="center">
-  <a href="https://linkedin.com/in/ParthBhanti">
+  <a href="https://www.linkedin.com/in/parthbhanti" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="https://x.com/@bhanti_parth">
+  </a>
+  <a href="https://x.com/bhanti_parth" target="blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="mailto:parthbhanti22@gmail.com">
+  <a href="mailto:parthbhanti22@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=parthbhanti22&icon=5&color=2" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthbhanti22&style=flat-square&color=e91e63" alt="Profile views" />
+  <h3 align="center">Bye Bye, need to SSH my life so that I can stop handling it</h3>
+</div>
