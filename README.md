@@ -60,7 +60,7 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 <h3 align="center">⚡ Core & Systems</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,bash,linux,debian" />
 </div>
 
 <h3 align="center">☁️ Cloud & Network</h3> 
@@ -70,7 +70,7 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 <h3 align="center">🌐 Web & Interface</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vercel,postgres" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,vercel,postgres,mysql" />
 </div>
 
 <br/>
