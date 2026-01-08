@@ -81,10 +81,10 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 | Project | System Description | Tech Stack |
 | :--- | :--- | :--- |
-| **ApexKV** | A distributed, fault-tolerant key-value store. Handles partitions and replication logic manually. | `Go` `gRPC` `Raft Consensus` |
-| **ExoVate** | Interactive simulation platform visualizing NASA Exoplanet data for scientific analysis. | `Next.js` `NASA API` `WebGL` |
-| **DSA Tracker** | A progressive web app to track algorithm mastery and competitive coding streaks. | `React` `Node.js` `PostgreSQL` |
-| **CloudThumb** | Automated serverless pipeline for image processing using event-driven architecture. | `AWS Lambda` `S3` `Python` |
+| [**ApexKV**](https://github.com/parthbhanti22/ApexKV) | A distributed, fault-tolerant key-value store. Handles partitions and replication logic manually. | `Go` `gRPC` `Raft Consensus` |
+| [**ExoVate**](https://github.com/parthbhanti22/Nasa-Hackathon-ExoExplorer) | Interactive simulation platform visualizing NASA Exoplanet data for scientific analysis. | `Next.js` `NASA API` `WebGL` |
+| [**WhatsApp-CLI**](https://github.com/parthbhanti22/WhatsApp-CLI) | A high-efficiency terminal interface for messaging. Brings WhatsApp directly to the shell environment. | `Go` `TUI` `WebSockets` |
+| [**Celestia Dynamics**](https://github.com/parthbhanti22/CelestiaDynamics) | A physics simulation library for modeling orbital mechanics and gravitational n-body systems. | `TypeScript` `Physics Engine` `Canvas` |
 
 ---
 
