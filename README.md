@@ -65,7 +65,7 @@ Now, I spend my nights architecting **Distributed Systems**, writing **Go** rout
 
 <h3 align="center">☁️ Cloud & Network</h3> 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,git,github" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,cloudflare,git,github" />
 </div>
 
 <h3 align="center">🌐 Web & Interface</h3>
